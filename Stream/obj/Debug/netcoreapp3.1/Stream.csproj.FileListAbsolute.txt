@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Stream\Stream\bin\Debug\netcoreapp3.1\Stream.exe
+C:\Users\Admin\source\repos\Stream\Stream\bin\Debug\netcoreapp3.1\Stream.deps.json
+C:\Users\Admin\source\repos\Stream\Stream\bin\Debug\netcoreapp3.1\Stream.runtimeconfig.json
+C:\Users\Admin\source\repos\Stream\Stream\bin\Debug\netcoreapp3.1\Stream.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Stream\Stream\bin\Debug\netcoreapp3.1\Stream.dll
+C:\Users\Admin\source\repos\Stream\Stream\bin\Debug\netcoreapp3.1\Stream.pdb
+C:\Users\Admin\source\repos\Stream\Stream\obj\Debug\netcoreapp3.1\Stream.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Stream\Stream\obj\Debug\netcoreapp3.1\Stream.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Stream\Stream\obj\Debug\netcoreapp3.1\Stream.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Stream\Stream\obj\Debug\netcoreapp3.1\Stream.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Stream\Stream\obj\Debug\netcoreapp3.1\Stream.dll
+C:\Users\Admin\source\repos\Stream\Stream\obj\Debug\netcoreapp3.1\Stream.pdb
+C:\Users\Admin\source\repos\Stream\Stream\obj\Debug\netcoreapp3.1\Stream.genruntimeconfig.cache
